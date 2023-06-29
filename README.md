@@ -1,2 +1,2 @@
-# Mnist
-mnist classification using CNN with skip connections
+# CIFAR10
+ classification using CNN with skip connections
